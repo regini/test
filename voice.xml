@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say>Attenzione. Nessuna comunicazione con la centrale.</Say>
+    <Say language="it-IT">Attenzione. Nessuna comunicazione con la centrale.</Say>
 </Response>
